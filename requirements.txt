@@ -15,4 +15,11 @@ flask_limit
 fake_useragent
 ratelimiter
 cloudscraper
-pysocks           
+pysocks  
+selenium
+toripchanger
+scapy==2.4.3
+selenium
+
+
+
